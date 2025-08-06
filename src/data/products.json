@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Classic White T-Shirt",
+    "price": 499,
+    "category": "Clothing",
+    "image": "t-shirt.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Blue Denim Jeans",
+    "price": 1299,
+    "category": "Clothing",
+    "image": "jeans.webp"
+  },
+  {
+    "id": 3,
+    "name": "Wireless Earbuds",
+    "price": 2499,
+    "category": "Electronics",
+    "image": "earphone.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Smart Watch",
+    "price": 3999,
+    "category": "Electronics",
+    "image": "smartwatch.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Gaming Mouse",
+    "price": 799,
+    "category": "Electronics",
+    "image": "mouse.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Leather Wallet",
+    "price": 699,
+    "category": "Accessories",
+    "image": "wallet.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Sunglasses",
+    "price": 899,
+    "category": "Accessories",
+    "image": "sunglass.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Backpack",
+    "price": 1599,
+    "category": "Accessories",
+    "image": "backpack.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Formal Shoes",
+    "price": 2199,
+    "category": "Footwear",
+    "image": "formalshoe.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Running Shoes",
+    "price": 2499,
+    "category": "Footwear",
+    "image": "runningshoe.avif"
+  },
+  {
+    "id": 11,
+    "name": "Sports Cap",
+    "price": 399,
+    "category": "Accessories",
+    "image": "cup.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "Casual Hoodie",
+    "price": 1499,
+    "category": "Clothing",
+    "image": "hoodie.webp"
+  },
+  {
+    "id": 13,
+    "name": "Bluetooth Speaker",
+    "price": 1799,
+    "category": "Electronics",
+    "image": "speaker.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Wrist Bracelet",
+    "price": 499,
+    "category": "Accessories",
+    "image": "braslet.jpeg"
+  },
+  {
+    "id": 15,
+    "name": "Casual Sneakers",
+    "price": 1999,
+    "category": "Footwear",
+    "image": "sneakers.jpg"
+  },
+  {
+    "id": 16,
+    "name": "DSLR Camera",
+    "price": 39999,
+    "category": "Electronics",
+    "image": "camera.jpeg"
+  },
+  {
+    "id": 17,
+    "name": "Travel Suitcase",
+    "price": 4599,
+    "category": "Accessories",
+    "image": "suitcase.jpeg"
+  },
+  {
+    "id": 18,
+    "name": "Formal Belt",
+    "price": 599,
+    "category": "Accessories",
+    "image": "belt.jpeg"
+  },
+  {
+    "id": 19,
+    "name": "Smartphone",
+    "price": 14999,
+    "category": "Electronics",
+    "image": "phone.jpeg"
+  },
+  {
+    "id": 20,
+    "name": "Leather Jacket",
+    "price": 3499,
+    "category": "Clothing",
+    "image": "leather jacket.webp"
+  }
+]
